@@ -23,4 +23,4 @@ Projeto criado utilizando exemplo do Bootstrap para ensino do README e do Bootst
 
 ## Fontes Consultas
 
-## Autores  
+## Autores
