@@ -1,12 +1,12 @@
 # Índice 
 
-[Projeto de Portfólio Pessoal](#projeto-de-portifolio-pessoal)
-[Descrição](#descri%C3%A7%C3%A3o)
-[Introdução](#introdu%C3%A7%C3%A3o)
-[Funcionalidades](#funcioanlidades)
-[Tecnologia Utilizadas](#tecnologia-utilizadas)
-[Fontes Consultadas](#fontes-consultadas)
-[Autores](#autores)
+[Projeto de Portfólio Pessoal](#projeto-de-portifolio-pessoal)  
+[Descrição](#descri%C3%A7%C3%A3o)  
+[Introdução](#introdu%C3%A7%C3%A3o)  
+[Funcionalidades](#funcioanlidades)  
+[Tecnologia Utilizadas](#tecnologia-utilizadas)  
+[Fontes Consultadas](#fontes-consultadas)  
+[Autores](#autores)  
 
 # Projeto De Portifólio Pessoal
 
