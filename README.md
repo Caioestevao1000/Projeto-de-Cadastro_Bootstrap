@@ -15,12 +15,13 @@ Projeto criado utilizando exemplo do Bootstrap para ensino do README e do Bootst
 
 
 ## Descrição
-O Projeto do Portifólio Pessoal serve para melhorar as competencias em manipulação do BOOTSTRAP e a escrita do README.
+Neste projeto utilizamos o Bootstrap e melhoramos na construção do README. 
 Foi usado um modelo de site já pronto do bootstrap.
+![Modelos](img/modelos.png)
 
 
 ## Introdução
-Neste projeto utilizamos o Bootstrap e melhoramos na construção do README. 
+O Projeto do Portifólio Pessoal serve para melhorar as competencias em manipulação do BOOTSTRAP e a escrita do README.
 
 
 ## Funcioanlidades
