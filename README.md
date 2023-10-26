@@ -21,7 +21,7 @@ Foi usado um modelo de site já pronto do bootstrap.
 
 
 ## Introdução
-O Projeto do Portifólio Pessoal serve para melhorar as competencias em manipulação do BOOTSTRAP e a escrita do README.
+O Projeto do Portifólio Pessoal serve para melhorar as competências em manipulação do BOOTSTRAP e a escrita do README.
 
 
 ## Funcioanlidades
