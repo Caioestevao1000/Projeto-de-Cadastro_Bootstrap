@@ -1,4 +1,4 @@
-# Índice 
+<!--# Índice 
 
 * [Projeto de Portfólio Pessoal](#projeto-de-portifolio-pessoal)  
 * [Descrição](#descri%C3%A7%C3%A3o)  
@@ -6,44 +6,38 @@
 * [Funcionalidades](#funcioanlidades)  
 * [Tecnologia Utilizadas](#tecnologia-utilizadas)  
 * [Fontes Consultadas](#fontes-consultadas)  
-* [Autores](#autores)  
+* [Autores](#autores)  -->
 
-# Projeto De Portifólio Pessoal
-
-Projeto criado utilizando exemplo do Bootstrap para ensino do README e do Bootstrap.
+# Projeto de Cadastro e Login
+Projeto criado utilizando exemplo do Bootstrap para aprendizagem e utilização do Bootstrap.
 ![Capa do Projeto](img/capa.png)
 
 
 ## Descrição
-Neste projeto utilizamos o Bootstrap e melhoramos na construção do README. 
+Neste projeto utilizamos o Bootstrap e melhoramos e foi feito mudanças, como a implementação de telas de cadastro e login. 
 Foi usado um modelo de site já pronto do bootstrap.
 ![Modelos](img/modelos.png)
 
 
 ## Introdução
-O Projeto do Portifólio Pessoal serve para melhorar as competências em manipulação do BOOTSTRAP e a escrita do README.
+O Projeto de Cadastro e Login serve para melhorar as competências em manipulação do BOOTSTRAP..
 
 
 ## Funcioanlidades
-O código serve para demonstração um modelo de bootstrap, com algumas opçõe de acesso: Início, Lançamentos, Contatos e Saber Mais. Modo escuro estará disponível em uma atualização futura.
+...
 
 
 ## Tecnologia Utilizadas
 - :heavy_check_mark: [HTML]
 - :heavy_check_mark: [CSS]
+- :heavy_check_mark: [PHP]
 - :heavy_check_mark: [BOOTSTRAP]
 - :heavy_check_mark: [GIT]
 
 
 ## Fontes Consultas
-Foram usadas para a criação desse README:
-- Github README: [gist.github.com](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
-- Alura README: [www.alura.com.br](https://www.alura.com.br/artigos/escrever-bom-readme)
+...
 
 ## Autores
 Aluno: Caio Estevão
 - Github: [github.com](https://github.com/Caioestevao1000)
-
-### Auxílio
-Professor: Leonardo Rocha
-- Github: [github.com](https://github.com/LeonardoRochaMarista)
