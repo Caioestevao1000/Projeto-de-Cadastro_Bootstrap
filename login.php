@@ -153,22 +153,22 @@
     <div>
       <h3 class="float-md-start mb-0">Cover</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
-        <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="inde.php">Início</a>
-        <a class="nav-link fw-bold py-1 px-0" href="cadastro.php">Cadastro</a>
-        <a class="nav-link fw-bold py-1 px-0" href="login.php">Login</a>
+        <a class="nav-link fw-bold py-1 px-0" href="index.php">Início</a>
+        <a class="nav-link fw-bold py-1 px-0" href="cadastro.php">Cadastrar-se</a>
+        <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="login.php">Login</a>
       </nav>
     </div>
   </header>
 
   <main class="px-3">
-    
         <h3>Login</h3>
-            <input type="email" id="loginEmail" placeholder="Digite seu email" class=""/>
+        <form action="" method="get">
+            <input type="email" id="loginEmail" placeholder="Digite seu email" class="form-control"/>
             <br>
-            <input type="password" id="loginSenha" placeholder="Digite sua senha" class=""/>
+            <input type="password" id="loginSenha" placeholder="Digite sua senha" class="form-control"/>
             <br>
-            <button onclick="Verify()" class="">ACESSAR</button>
-        
+            <button onclick="Verify()" class="btn btn-primary">Login</button>
+        </form>
   </main>
 
   <footer class="mt-auto text-white-50">

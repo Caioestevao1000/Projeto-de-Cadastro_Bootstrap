@@ -153,8 +153,8 @@
     <div>
       <h3 class="float-md-start mb-0">Cover</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
-        <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="inde.php">Início</a>
-        <a class="nav-link fw-bold py-1 px-0" href="cadastro.php">Cadastro</a>
+        <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="index.php">Início</a>
+        <a class="nav-link fw-bold py-1 px-0" href="cadastro.php">Cadastrar-se</a>
         <a class="nav-link fw-bold py-1 px-0" href="login.php">Login</a>
       </nav>
     </div>
@@ -164,7 +164,7 @@
     <h1>Página de Início.</h1>
     <p class="lead">Atividade de Programação Web II, para a implementação de tela de Cadastro e Login junto com Banco de Dados.</p>
     <p class="lead">
-      <a href="#" class="btn btn-lg btn-light fw-bold border-white bg-white">Saber Mais</a>
+      <a href="https://github.com/Caioestevao1000/Projeto-de-Cadastro_Bootstrap" target="_blank" class="btn btn-lg btn-light fw-bold border-white bg-white">Saber Mais</a>
     </p>
   </main>
 
