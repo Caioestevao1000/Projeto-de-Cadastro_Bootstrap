@@ -24,7 +24,7 @@ Foi usado um modelo de site já pronto do bootstrap.
 O Projeto do Portifólio Pessoal serve para melhorar as competências em manipulação do BOOTSTRAP e a escrita do README.
 
 
-## Funcioanlidades
+## Funcionalidades
 O código serve para demonstração um modelo de bootstrap, com algumas opçõe de acesso: Início, Lançamentos, Contatos e Saber Mais. Modo escuro estará disponível em uma atualização futura.
 
 
