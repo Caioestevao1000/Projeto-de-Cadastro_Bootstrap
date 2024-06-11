@@ -112,7 +112,7 @@
       </symbol>
     </svg>
 
-    <div class="dropdown position-fixed bottom-0 end-0 mb-3 me-3 bd-mode-toggle">
+    <!-- <div class="dropdown position-fixed bottom-0 end-0 mb-3 me-3 bd-mode-toggle">
       <button class="btn btn-bd-primary py-2 dropdown-toggle d-flex align-items-center"
               id="bd-theme"
               type="button"
@@ -145,7 +145,7 @@
           </button>
         </li>
       </ul>
-    </div>
+    </div> -->
 
     
 <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
@@ -161,20 +161,22 @@
   </header>
 
   <main class="px-3">
-        <h3>Login</h3>
+        <h3>Cadastro</h3>
         <form action="" method="get">
             <input type="text" id="nome" placeholder="Digite seu nome" class="form-control">
             <br>
-            <input type="email" id="loginEmail" placeholder="Digite seu email" class="form-control"/>
+            <input type="email" id="cadEmail" placeholder="Digite seu email" class="form-control"/>
             <br>
-            <input type="password" id="loginSenha" placeholder="Digite sua senha" class="form-control"/>
+            <input type="password" id="cadSenha" placeholder="Digite sua senha" class="form-control"/>
+            <br>
+            <input type="password" id="cadSenha2" placeholder="Confirme sua Senha" class="form-control"/>
             <br>
             <button onclick="Verify()" class="btn btn-primary">Cadastrar</button>
         </form>
   </main>
 
   <footer class="mt-auto text-white-50">
-    <p>Cover modelo de <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, por <a href="https://twitter.com/mdo" class="text-white">@mdo</a>. Modificado por <a href="https://github.com/Caioestevao1000/Projeto-de-Cadastro_Bootstrap">Caio Estevão</a>.</p>
+    <p>Cover modelo de <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, por <a href="https://twitter.com/mdo" class="text-white">@mdo</a>. Modificado por <a href="https://www.linkedin.com/in/caio-estev%C3%A3o/">Caio Estevão</a>.</p>
   </footer>
 </div>
 <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>

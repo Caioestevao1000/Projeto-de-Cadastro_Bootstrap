@@ -112,7 +112,7 @@
       </symbol>
     </svg>
 
-    <div class="dropdown position-fixed bottom-0 end-0 mb-3 me-3 bd-mode-toggle">
+    <!-- <div class="dropdown position-fixed bottom-0 end-0 mb-3 me-3 bd-mode-toggle">
       <button class="btn btn-bd-primary py-2 dropdown-toggle d-flex align-items-center"
               id="bd-theme"
               type="button"
@@ -145,7 +145,7 @@
           </button>
         </li>
       </ul>
-    </div>
+    </div> -->
 
     
 <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
@@ -172,7 +172,7 @@
   </main>
 
   <footer class="mt-auto text-white-50">
-    <p>Cover modelo para <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, por <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
+    <p>Cover modelo de <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, por <a href="https://twitter.com/mdo" class="text-white">@mdo</a>. Modificado por <a href="https://www.linkedin.com/in/caio-estev%C3%A3o/">Caio Estevão</a>.</p>
   </footer>
 </div>
 <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
