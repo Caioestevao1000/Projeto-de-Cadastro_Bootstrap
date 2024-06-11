@@ -35,7 +35,6 @@ O Projeto de Cadastro e Login serve para melhorar as competências em manipulaç
 - :heavy_check_mark: [GIT]
 
 
-
 ## Autores
 Aluno: Caio Estevão
 - Github: [github.com](https://github.com/Caioestevao1000)

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="pt-br" class="h-100" data-bs-theme="auto">
   <head><script src="../assets/js/color-modes.js"></script>
 
@@ -165,11 +165,11 @@
         <form action="" method="get">
             <input type="text" id="nome" placeholder="Digite seu nome" class="form-control">
             <br>
-            <input type="email" id="cadEmail" placeholder="Digite seu email" class="form-control"/>
+            <input type="email" id="email" placeholder="Digite seu email" class="form-control"/>
             <br>
-            <input type="password" id="cadSenha" placeholder="Digite sua senha" class="form-control"/>
+            <input type="password" id="password" placeholder="Digite sua senha" class="form-control"/>
             <br>
-            <input type="password" id="cadSenha2" placeholder="Confirme sua Senha" class="form-control"/>
+            <input type="password" id="password2" placeholder="Confirme sua Senha" class="form-control"/>
             <br>
             <button onclick="Verify()" class="btn btn-primary">Cadastrar</button>
         </form>

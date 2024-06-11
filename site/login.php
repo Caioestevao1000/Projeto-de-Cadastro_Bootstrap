@@ -165,7 +165,7 @@
         <form action="" method="get">
             <input type="email" id="loginEmail" placeholder="Digite seu email" class="form-control"/>
             <br>
-            <input type="password" id="loginSenha" placeholder="Digite sua senha" class="form-control"/>
+            <input type="password" id="passwd" placeholder="Digite sua senha" class="form-control"/>
             <br>
             <button onclick="Verify()" class="btn btn-primary">Login</button>
         </form>
