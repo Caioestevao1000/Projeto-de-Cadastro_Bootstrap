@@ -10,13 +10,13 @@
 
 # Projeto de Cadastro e Login
 Projeto criado utilizando exemplo do Bootstrap para aprendizagem e futuro uso de Banco de Dados.
-![Capa do Projeto](img/capa.png)
+![Capa do Projeto](imgs/capa.png)
 
 
 ## Descrição
 Neste projeto utilizamos o Bootstrap e foi feito mudanças, como a implementação de telas de cadastro e login. 
 Foi usado um modelo de site já pronto de bootstrap.
-![Modelos](img/modelos.png)
+![Modelos](imgs/modelos.png)
 
 
 ## Introdução
@@ -25,6 +25,8 @@ O Projeto serve para melhorar as competências com banco de dados e para ajudar 
 
 ## Funcionalidades
 O projeto contém mais de uma página, no qual temos a tela de cadastro, que contém confirmação dos campos e redirecionamento da página, e também o login. Futura implementação com o Banco de Dados.
+
+![GIF](imgs/gif-projet.gif)
 
 
 ## Tecnologia Utilizadas
