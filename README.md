@@ -9,7 +9,7 @@
 * [Autores](#autores)  -->
 
 # Projeto de Cadastro e Login
-Projeto criado utilizando exemplo do Bootstrap para aprendizagem.
+Projeto criado utilizando exemplo do Bootstrap para aprendizagem e futuro uso de Banco de Dados.
 ![Capa do Projeto](img/capa.png)
 
 
@@ -20,11 +20,11 @@ Foi usado um modelo de site já pronto de bootstrap.
 
 
 ## Introdução
-O Projeto serve para melhorar as competências com banco de dados
+O Projeto serve para melhorar as competências com banco de dados e para ajudar no processo do Projeto Integrador(TCC).
 
 
 ## Funcionalidades
-
+O projeto contém mais de uma página, no qual temos a tela de cadastro, que contém confirmação dos campos e redirecionamento da página, e também o login. Futura implementação com o Banco de Dados.
 
 
 ## Tecnologia Utilizadas
