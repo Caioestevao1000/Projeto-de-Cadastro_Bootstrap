@@ -9,21 +9,21 @@
 * [Autores](#autores)  -->
 
 # Projeto de Cadastro e Login
-Projeto criado utilizando exemplo do Bootstrap para aprendizagem e utilização do Bootstrap.
+Projeto criado utilizando exemplo do Bootstrap para aprendizagem.
 ![Capa do Projeto](img/capa.png)
 
 
 ## Descrição
-Neste projeto utilizamos o Bootstrap e melhoramos e foi feito mudanças, como a implementação de telas de cadastro e login. 
-Foi usado um modelo de site já pronto do bootstrap.
+Neste projeto utilizamos o Bootstrap e foi feito mudanças, como a implementação de telas de cadastro e login. 
+Foi usado um modelo de site já pronto de bootstrap.
 ![Modelos](img/modelos.png)
 
 
 ## Introdução
-O Projeto de Cadastro e Login serve para melhorar as competências em manipulação do BOOTSTRAP..
+O Projeto serve para melhorar as competências com banco de dados
 
 
-## Funcioanlidades
+## Funcionalidades
 ...
 
 
