@@ -24,7 +24,7 @@ O Projeto serve para melhorar as competências com banco de dados
 
 
 ## Funcionalidades
-...
+
 
 
 ## Tecnologia Utilizadas

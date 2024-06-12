@@ -172,7 +172,7 @@
     <p>Cover modelo de <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, por <a href="https://twitter.com/mdo" class="text-white">@mdo</a>. Modificado por <a href="https://www.linkedin.com/in/caio-estev%C3%A3o/">Caio Estevão</a>.</p>
   </footer>
 </div>
-<script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+
 
     </body>
 </html>
