@@ -1,4 +1,19 @@
-  <!DOCTYPE html>
+<?php
+
+  if(isset($_POST['submit'])) {
+
+  /*Cria as variáveis que receberão os dados do formulário*/
+  $nome  = $_POST["nome"];
+  $email = $_POST["email"];
+  $senha = $_POST["password"];
+
+  include_once('conexao.php');
+
+  $result = mysqli_query($conexao, "INSERT INTO cadastro (nome, email, senha) VALUES ('$nome', '$email', '$senha')");
+  }
+?>
+
+<!DOCTYPE html>
 <html lang="pt-br" class="h-100" data-bs-theme="auto">
   <head><script src="../assets/js/color-modes.js"></script>
 
@@ -124,16 +139,16 @@
 
   <main class="px-3">
         <h3>Cadastro</h3>
-        <form action="" method="get">
-            <input type="text" id="nome" placeholder="Digite seu nome" class="form-control">
+        <form action="cadastro.php" method="post">
+            <input type="text" name="nome" id="nome" placeholder="Digite seu nome" class="form-control">
             <br>
-            <input type="email" id="email" placeholder="Digite seu email" class="form-control"/>
+            <input type="email" name="email" id="email" placeholder="Digite seu email" class="form-control"/>
             <br>
-            <input type="password" id="password" placeholder="Digite sua senha" class="form-control"/>
+            <input type="password" name="password" id="password" placeholder="Digite sua senha" class="form-control"/>
             <br>
-            <input type="password" id="password2" placeholder="Confirme sua Senha" class="form-control"/>
+            <input type="password" name="password2" id="password2" placeholder="Confirme sua Senha" class="form-control"/>
             <br>
-            <button onclick="Verify()" class="btn btn-primary">Cadastrar</button>
+            <input type="submit" class="btn btn-primary" name="submit" id="submit" value="Cadastrar">
         </form>
   </main>
 

@@ -8,7 +8,9 @@ function Verify()
     if (!nome || !email || !password || !password2){
         alert("Campos de preenchimento obrigatório. Favor preencher!");
     }
-    else{ 
+    else if (password != password2){
+        alert("Senha não iguais!")
+    }else{ 
         window.location.href = "index.php"
         alert("Cadastro Concluído");
     }
